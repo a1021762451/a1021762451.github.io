@@ -46,7 +46,7 @@
         <hr> 
        </div> 
        <div class="am-u-sm-4"> 
-        <a class="am-btn am-btn-warning am-round" href="wangsh.club/zdy.html">自定义链接</a> 
+        <a class="am-btn am-btn-warning am-round" href="a1021762451.github.io/zdy.html">自定义链接</a> 
         <hr> 
        </div> 
        <div class="am-u-sm-4"> 
